@@ -127,6 +127,7 @@ Delete tasks that are no longer needed
       ↓
       
  ┌───────────────────────────────────┐
+ 
  │  Sidebar Navigation Options:      │
  
  │  • Define Task (Create new tasks) │
@@ -136,6 +137,7 @@ Delete tasks that are no longer needed
  │  • Check Tasks (Created by me)    │
  
  │  • Change Task (Modify my 'new')  │
+ 
  └───────────────────────────────────┘
 
   a detailed academic report covering the full project is also included.
