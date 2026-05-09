@@ -120,16 +120,16 @@ Delete tasks that are no longer needed
 
 ### Navigation Flow
 
-            Login/Sign Up
-                 ↓
-             [Logged In]
-                 ↓
-┌───────────────────────────────────┐
-│  Sidebar Navigation Options:      │
-│  • Define Task (Create new tasks) │
-│  • View Tasks (Assigned to me)    │
-│  • Check Tasks (Created by me)    │
-│  • Change Task (Modify my 'new')  │
-└───────────────────────────────────┘
+ Login/Sign Up
+      ↓
+ [Logged In]
+      ↓
+ ┌───────────────────────────────────┐
+ │  Sidebar Navigation Options:      │
+ │  • Define Task (Create new tasks) │
+ │  • View Tasks (Assigned to me)    │
+ │  • Check Tasks (Created by me)    │
+ │  • Change Task (Modify my 'new')  │
+ └───────────────────────────────────┘
 
   a detailed academic report covering the full project is also included.
