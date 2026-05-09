@@ -122,13 +122,19 @@ Delete tasks that are no longer needed
 
  Login/Sign Up
       ↓
+      
  [Logged In]
       ↓
+      
  ┌───────────────────────────────────┐
  │  Sidebar Navigation Options:      │
+ 
  │  • Define Task (Create new tasks) │
+ 
  │  • View Tasks (Assigned to me)    │
+ 
  │  • Check Tasks (Created by me)    │
+ 
  │  • Change Task (Modify my 'new')  │
  └───────────────────────────────────┘
 
